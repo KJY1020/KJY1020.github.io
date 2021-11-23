@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Valentine1020"
-  avatar           : "/assets/images/icon.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/icon.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "독하게 살려고 노력하는 중. <br> 코딩한 것, 읽은 독서, 공부한 내용 등을 기록 중입니다."
   location         : "Republic of Korea"
   email            : "myblueValentine1020@gmail.com"

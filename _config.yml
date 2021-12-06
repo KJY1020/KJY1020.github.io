@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Valentine1020"
   avatar           : "/assets/images/icon.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "독하게 살려고 노력하는 중. <br> 코딩한 것, 읽은 독서, 공부한 내용 등을 기록 중입니다."
+  bio              : "독하게 살려고 노력하는 중. <br> 읽은 독서, 공부한 내용 등을 기록 중."
   location         : "Republic of Korea"
   email            : "myblueValentine1020@gmail.com"
   links:
@@ -113,7 +113,7 @@ author:
       url: "myblueValentine1020@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://mybluevalentine1020.com/"
+      url: "https://KJY1020.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
